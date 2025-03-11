@@ -11,10 +11,15 @@ It includes two versions:
 📌 Features
 
 ✅ Tello Drone Integration (aerialsupervision.py) – Controls takeoff, hover, and landing.
+
 ✅ Mock Mode (mock.py) – Uses a webcam for testing the code without a drone.
+
 ✅ Object Detection (YOLOv8) – Identifies people, vehicles, and objects in real-time.
+
 ✅ Human Activity Recognition (MobileNetV2) – Classifies human actions like walking, running, etc.
+
 ✅ Live Video Feed – Displays real-time annotations with bounding boxes.
+
 ✅ Metadata Collection – Logs detected object counts for analysis.
 
 🛠️ Tech Stack
